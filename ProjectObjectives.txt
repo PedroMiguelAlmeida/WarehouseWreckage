@@ -1,0 +1,9 @@
+Unreal Engine 5 Familiriality.
+
+Blueprint basics: nodes, pins.
+
+Blueprint programming: Functions, Pure functions, Member functions, Extract Functions.
+
+Unreal Basics: Maps, Actors, Components, Tranforms, Vectors.
+
+Unreal Engine 5 Objects: Physics, Transforms, Shape, Texture, Mesh, Materials, Collision.

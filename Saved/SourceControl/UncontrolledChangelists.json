@@ -7,7 +7,11 @@
 			"files": [
 				"C:/Users/pedro/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/pedro/Documents/Unreal Projects/WarehouseWreckage/Content/BP_Projectile.uasset",
-				"C:/Users/pedro/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"C:/Users/pedro/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/pedro/Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap",
+				"C:/Users/pedro/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset",
+				"C:/Users/pedro/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Textures/T_Concrete_Panels_Mat.uasset",
+				"C:/Users/pedro/Documents/Unreal Projects/WarehouseWreckage/Content/BP_Barrel.uasset"
 			]
 		}
 	]
